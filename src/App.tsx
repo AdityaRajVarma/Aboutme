@@ -6,7 +6,6 @@ import {
   ArrowUpRight,
   Mail,
   Twitter,
-  Linkedin,
   Layers,
   Target,
   BookOpen,
@@ -345,14 +344,6 @@ function App() {
                 className="text-gray-500 hover:text-[#d4af37] transition-colors"
               >
                 <Twitter className="w-4 h-4" />
-              </a>
-              <a
-                href="https://linkedin.com/in/adityarajverma"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-500 hover:text-[#d4af37] transition-colors"
-              >
-                <Linkedin className="w-4 h-4" />
               </a>
             </div>
           </div>
